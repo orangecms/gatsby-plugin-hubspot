@@ -33,6 +33,6 @@
     "react": "^16.6.0"
   },
   "dependencies": {
-    "gatsby-plugin-tracking-consent": "git+https://github.com/orangecms/gatsby-plugin-tracking-consent.git#v0.0.2"
+    "gatsby-plugin-tracking-consent": "github:orangecms/gatsby-plugin-tracking-consent#v0.0.3"
   }
 }
