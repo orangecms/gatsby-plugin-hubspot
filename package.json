@@ -31,5 +31,8 @@
     "cross-env": "^5.2.0",
     "jest": "^23.6.0",
     "react": "^16.6.0"
+  },
+  "dependencies": {
+    "gatsby-plugin-tracking-consent": "git+https://github.com/orangecms/gatsby-plugin-tracking-consent.git#v0.0.2"
   }
 }
